@@ -1,4 +1,4 @@
-# Parth Restaurant – Modern Restaurant Website
+# Parth Restaurant – Modern Restaurant 
 
 A visually immersive and fully responsive restaurant website built using **HTML, CSS, and JavaScript**, designed to deliver a premium dining experience online through elegant UI/UX, smooth animations, and interactive functionality.
 

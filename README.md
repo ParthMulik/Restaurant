@@ -1,5 +1,4 @@
-# Parth Restaurant – Moder
-
+# Parth Restaurant – 
 A visually immersive and fully responsive restaurant website built using **HTML, CSS, and JavaScript**, designed to deliver a premium dining experience online through elegant UI/UX, smooth animations, and interactive functionality.
 
 This project combines aesthetic design with practical restaurant features such as **table booking, digital menu browsing, chef introduction, contact information, and featured dishes**, making it ideal for modern restaurants, cafés, or hospitality businesses.

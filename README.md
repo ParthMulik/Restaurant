@@ -334,6 +334,3 @@ Developed by **[Parth Mulik]**
 ---
 
 ## License
-
-Thi
-

@@ -335,5 +335,5 @@ Developed by **[Parth Mulik]**
 
 ## License
 
-This proj
+Thi
 

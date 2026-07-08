@@ -335,5 +335,5 @@ Developed by **[Parth Mulik]**
 
 ## License
 
-This project is open for education
+This project is open for
 

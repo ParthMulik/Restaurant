@@ -333,4 +333,3 @@ Developed by **[Parth Mulik]**
 
 ---
 
-## License
